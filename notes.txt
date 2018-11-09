@@ -1,0 +1,17 @@
+@channel warmup:
+https://www.codeply.com/img/uJo7gyGA5Z.
+
+1. Make a new directory called `bootstrap-warmup` and add four files: `notes.txt`, `index.html`, `main.css`, `main.js`
+2. Link your stylesheet and script file to your `index.html` file and open `index.html` in Chrome using your Terminal.
+3. Take a look at the design. Identify one block and one inline element and write them down in `notes.txt`. E.g. "All the paragraphs on the page are block elements because `<p>` is a block element.
+4. Mentally break the design down into rows and columns. Then, in `notes.txt`, identify one element that is a "nested" column.
+5. Build out as much of the page as you can using Bootstrap.
+Extra credit: Build out as much of the page as you can using CSS Grid.
+Let's take until 10:30, then we'll review.
+
+
+The header is blcok level.
+
+the links (anchor tags), are inline
+
+the Snippets box is a nested column.
